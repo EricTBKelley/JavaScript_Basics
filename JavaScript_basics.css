@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 970px;
+    height: 585px;
+    padding: 12px;
+    background-color: DarkSlateBlue;
+}
+
+#header{
+    border-radius: 10px;
+    width: 970px;
+    height: 60px;
+    background-color: red;
+}
+
+h1{
+    color: Lavender;
+    padding-top: 12px;
+    padding-left: 12px;
+}
+#nav{
+    border-radius: 25px;
+    vertical-align: top;
+    display:inline-block;
+    width: 210px;
+    height: 210px;
+    background-color: teal;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+#gone{
+    list-style-type: none;
+}
+.home{
+    padding-left: 10px
+}
+ul{
+    padding-left: 30px;
+    padding-top: 1px;
+    color: lavender;
+}
+a{
+    color: cyan;
+}
+#main{
+    border-radius: 15px;
+    display:inline-block;
+    width: 735px;
+    height: 415px;
+    background-color: black;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+#title{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    display: block;
+}
+h2{
+    color: lavender;
+    padding-left: 15px;
+}
+p{
+    color: lavender;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+#intro{
+    width:100%;
+    height: auto;; //might change to auto with txt/
+    background-color: black;
+    display: block;
+    padding-bottom: 15px;
+}
+#bullet_points{
+    width:100%;
+    height: 40px; //might change to auto/
+    background-color: black;
+    display: block;
+}
+.bullet{
+    font-size: 14px;
+    color: lavender;
+}
+.purple{
+    color: orchid;
+}
+#bottom_half{
+
+    border-radius: 15px;
+    width: 970px;
+    height:40px;
+    padding-top: 10px;
+    background-color: grey;
+}
+#info{
+    color: lavender;
+    font-size: 15px;
+}
